@@ -1,0 +1,11 @@
+com\attus\pessoa\dto\request\PessoaRequestDTO.class
+com\attus\pessoa\service\PessoaServiceImpl.class
+com\attus\pessoa\entity\Pessoa$PessoaBuilder.class
+com\attus\pessoa\entity\Pessoa.class
+com\attus\pessoa\service\PessoaService.class
+com\attus\pessoa\controller\PersonController.class
+com\attus\pessoa\repository\PessoaRepository.class
+com\attus\pessoa\PessoaApplication.class
+com\attus\pessoa\controller\GlobalExceptionHandler.class
+com\attus\pessoa\dto\response\PessoaResponseDTO.class
+com\attus\pessoa\util\PessoaMapper.class

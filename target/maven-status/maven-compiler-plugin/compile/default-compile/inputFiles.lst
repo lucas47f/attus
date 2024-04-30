@@ -1,0 +1,10 @@
+C:\Workspace\CRUD-main\CRUD-main\src\main\java\com\attus\pessoa\PessoaApplication.java
+C:\Workspace\CRUD-main\CRUD-main\src\main\java\com\attus\pessoa\controller\GlobalExceptionHandler.java
+C:\Workspace\CRUD-main\CRUD-main\src\main\java\com\attus\pessoa\dto\request\PessoaRequestDTO.java
+C:\Workspace\CRUD-main\CRUD-main\src\main\java\com\attus\pessoa\repository\PessoaRepository.java
+C:\Workspace\CRUD-main\CRUD-main\src\main\java\com\attus\pessoa\service\PessoaService.java
+C:\Workspace\CRUD-main\CRUD-main\src\main\java\com\attus\pessoa\service\PessoaServiceImpl.java
+C:\Workspace\CRUD-main\CRUD-main\src\main\java\com\attus\pessoa\util\PessoaMapper.java
+C:\Workspace\CRUD-main\CRUD-main\src\main\java\com\attus\pessoa\dto\response\PessoaResponseDTO.java
+C:\Workspace\CRUD-main\CRUD-main\src\main\java\com\attus\pessoa\controller\PersonController.java
+C:\Workspace\CRUD-main\CRUD-main\src\main\java\com\attus\pessoa\entity\Pessoa.java

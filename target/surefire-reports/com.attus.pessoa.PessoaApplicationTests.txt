@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.attus.pessoa.PessoaApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 12.015 s - in com.attus.pessoa.PessoaApplicationTests
