@@ -2,7 +2,7 @@
 
 ## O QUE É A APLICAÇÃO :
 
-Essa é uma aplicação de CRUD básico em que consiste em manipular dados no banco através da entidade Pessoa.
+Essa é uma aplicação de CRUD básico que consiste em administrar uma base de dados através da tabela Pessoa.
 
 ## FUNCIONALIDADES :
 
